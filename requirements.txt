@@ -1,3 +1,7 @@
 schedule>=1.2.2
 yfinance>=1.2.0
+<<<<<<< HEAD
 matplotlib>=3.10.8
+=======
+meteostat>=2.1.4
+>>>>>>> 08bf58e1768e30a19605888056bf080aef68c828
