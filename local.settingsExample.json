@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+
+    "DB_SERVER": " ",
+    "DB_NAME": "",
+    "DB_USER": "",
+    "DB_PASSWORD": ""
+  }
+}
